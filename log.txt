@@ -1,0 +1,1346 @@
+Assets/Plugins/UnityPurchasing/Resources/UIFakeStoreCanvas.prefab:  m_Text: Option A
+Assets/Plugins/UnityPurchasing/Resources/UIFakeStoreCanvas.prefab:    - m_Text: Option A
+Assets/Plugins/UnityPurchasing/Resources/UIFakeStoreCanvas.prefab:    - m_Text: Option B
+Assets/Plugins/UnityPurchasing/Resources/UIFakeStoreCanvas.prefab:    - m_Text: Option C
+Assets/Plugins/UnityPurchasing/Resources/UIFakeStoreCanvas.prefab:  m_Text: Button
+Assets/Plugins/UnityPurchasing/Resources/UIFakeStoreCanvas.prefab:  m_Text: New Text
+Assets/Plugins/UnityPurchasing/Resources/UIFakeStoreCanvas.prefab:  m_Text: Option A
+Assets/Plugins/UnityPurchasing/Resources/UIFakeStoreCanvas.prefab:  m_Text: Button
+Assets/Resources/Prefabs/AboutCmPointDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/AboutCmPointDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/AboutCmPointDialog.prefab:  m_Text: "\u30BF\u30A4\u30C8\u30EB"
+Assets/Resources/Prefabs/AboutCmPointDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/AboutCmPointDialog.prefab:  m_Text: "CP\u3092\u8CAF\u3081\u308B\u524D\u306B\u6BCE\u56DE\u78BA\u8A8D\u3059\u308B"
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: "\u3059\u3079\u3066\u9078\u629E"
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: "\u88C5\u5099\u30A2\u30A4\u30C6\u30E0\u306E\u307F"
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: "\u30E1\u30F3\u30D0\u30FC\u306E\u307F"
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: "\u88C5\u5099\u4E2D\u3001\u30ED\u30C3\u30AF\u4E2D\u3001\u30D7\u30EA\u30BB\u30C3\u30C8\u767B\u9332\u4E2D\u3092\u9664\u304F\n\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u58F2\u5374\u3057\u307E\u3059\u3002\u4EE5\u4E0B\u306E\u7D20\u6750\u304C\u624B\u306B\u5165\u308A\u307E\u3059\u3002"
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB\u30C1\u30C3\u30D7\u306E\u307F"
+Assets/Resources/Prefabs/AllSellDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/AnimationSimpleDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/AnimationSimpleDialog.prefab:  m_Text: "\u30CD\u30C3\u30C8\u30EF\u30FC\u30AF\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002"
+Assets/Resources/Prefabs/AnimationSimpleDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/AnimationSimpleDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/AppReviewDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/AppReviewDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/AppReviewDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/AppReviewDialog.prefab:  m_Text: "\u30D7\u30EC\u30A4\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u3002\r\n\u3082\u3057\u3088\u3051\u308C\u3070\u3010\u2605\uFF15\u306E\u8A55\u4FA1\u3011\u3092\u304A\u9858\u3044\u3057\u307E\u3059\u3002"
+Assets/Resources/Prefabs/AppReviewDialog.prefab:  m_Text: "\u304C\u3093\u3070\u3063\u3066\u958B\u767A\u3057\u3066\u3044\u304F\u304B\u3089\n\u3053\u308C\u304B\u3089\u3082\u5FDC\u63F4\u3057\u3066\u306D\uFF01"
+Assets/Resources/Prefabs/AskHaveIdDialog.prefab:  m_Text: "\n\n\n\u203B \u3053\u3046\u3044\u3046\u30A2\u30A4\u30B3\u30F3\u306E\u30B2\u30FC\u30E0\u30A2\u30D7\u30EA\u3067\u3059
+Assets/Resources/Prefabs/AskHaveIdDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/AskHaveIdDialog.prefab:  m_Text: "\u524D\u4F5C\u300C\u30BD\u30A6\u30EB\u30AF\u30EA\u30B9\u30BF\u30EB\u300D\u306E\u30E6\u30FC\u30B6\u30FCID\u3092\u6301\u3063\u3066\u3044\u307E\u3059\u304B\uFF1F"
+Assets/Resources/Prefabs/AskHaveIdDialog.prefab:  m_Text: "\u78BA\u8A8D\u3057\u3066\u304F\u3060\u3055\u3044"
+Assets/Resources/Prefabs/AskHaveIdDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/CmGachaDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/CmGachaDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/CmGachaDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/CmGachaDialog.prefab:  m_Text: "\u30CD\u30C3\u30C8\u30EF\u30FC\u30AF\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "HP\u56DE\u5FA9 5000"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "HP\u56DE\u5FA9 5000"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u6D88\u8CBB\u7D20\u6750"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u6210\u529F\u738750%"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\xD710"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u30AF\u30FC\u30EB\u30BF\u30A4\u30E0 1.0\u79D2"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u6D88\u8CBB\u7D20\u6750"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u30AF\u30FC\u30EB\u30BF\u30A4\u30E0 1.0\u79D2"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u5FC5\u8981\u306A\u7D20\u6750"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u30DF\u30CB\u30DD\u30FC\u30B7\u30E7\u30F3+100"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u30DF\u30CB\u30DD\u30FC\u30B7\u30E7\u30F3+100"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u5F37\u5316\u5F8C\u306E\u6027\u80FD"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u6D88\u8CBB\u7D20\u6750"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\xD7100"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u524D\u63D0\uFF1A\u30DF\u30CB\u30DD\u30FC\u30B7\u30E7\u30F3+10\n\u524D\u63D0\uFF1A\u30DF\u30CB\u30DD\u30FC\u30B7\u30E7\u30F3+10\n\u524D\u63D0\uFF1A\u30DF\u30CB\u30DD\u30FC\u30B7\u30E7\u30F3+10"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u30AF\u30FC\u30EB\u30BF\u30A4\u30E0 1.0\u79D2"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u5FC5\u8981\u306A\u7D20\u6750"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "HP\u56DE\u5FA9 5000"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 999999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "\u305F\u3060\u306E\u85AC\u8349"
+Assets/Resources/Prefabs/CreateItemChipDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "\u524D\u63D0\uFF1A\u30DF\u30CB\u30DD\u30FC\u30B7\u30E7\u30F3+10"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: 999999
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "\u305F\u3060\u306E\u85AC\u8349"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "\u5FC5\u8981\u306A\u7D20\u6750"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/CreateSkillChipDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: 999999
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u5909\u66F4\u3059\u308B"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u653B\u6483\u529B +120"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u5FC5\u8981\u306A\u7D20\u6750"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u73FE\u5728\u306E\u4E8C\u3064\u540D"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u5207\u66FF"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/CustomizeDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog.prefab:  m_Text: "\u6575\u306B100\u30C0\u30E1\u30FC\u30B8"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog.prefab:  m_Text: "1\u65E5\u76EE \u3010B\u30AF\u30E9\u30B9\u3011\u30AF\u30EC\u30EA\u30C3\u30AF"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB \u30A2\u30BF\u30C3\u30AF"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 2.0\u79D2"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog.prefab:  m_Text: "\u958B\u59CB"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog.prefab:  m_Text: "8\u65E5\u9593\u30B9\u30DA\u30B7\u30E3\u30EB\u30DC\u30FC\u30CA\u30B9"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: "\xD750"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: '&'
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: '&'
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: "\xD7100"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: "\xD725"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: '&'
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: '&'
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: "\xD725"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: '&'
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: '&'
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: "\xD725"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: '&'
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: "\xD7150"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: "\xD750"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: '&'
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: "\xD750"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: "\u30101\u65E5\u76EE\u30DC\u30FC\u30CA\u30B9\u3011\n\u30AF\u30F3\u30D5\u30FC\u30BF\u30A4\u30AC\u30FC
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: "8\u65E5\u9593\u30B9\u30DA\u30B7\u30E3\u30EB\u30DC\u30FC\u30CA\u30B9"
+Assets/Resources/Prefabs/EightDaySpecialBonusDialog2.prefab:  m_Text: "\u958B\u59CB"
+Assets/Resources/Prefabs/EquipDetailDialog.prefab:  m_Text: "\u653B\u6483\u529B +120"
+Assets/Resources/Prefabs/EquipDetailDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/EquipDetailDialog.prefab:  m_Text: "\u73FE\u5728\u306E\u4E8C\u3064\u540D"
+Assets/Resources/Prefabs/EquipDetailDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/EquipDetailDialog.prefab:  m_Text: "\u653B\u6483\u529B +120"
+Assets/Resources/Prefabs/EquipDetailDialog.prefab:  m_Text: "\u73FE\u5728\u306E\u7D20\u6750"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u9589\u3058\u308B"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u9BAE\u8840\u306E\u7C12\u596A\u8005"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u88C5\u5099\u4E00\u89A7"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u30AA\u30EA\u30CF\u30EB\u30B3\u30F3"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: Share
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u88C5\u7740"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u88C5\u7740"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u88C5\u7740"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u88C5\u7740"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u767B\u9332"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u767B\u9332"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\uFF18\uFF19\uFF10"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u540D\u524D"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u767B\u9332"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u767B\u9332"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\uFF18\uFF19\uFF10"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\uFF18\uFF19\uFF10"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u767B\u9332"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\uFF18\uFF19\uFF10"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u767B\u9332"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u767B\u9332"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u540D\u524D"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u540D\u524D"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\uFF18\uFF19\uFF10"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\uFF18\uFF19\uFF10"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u540D\u524D"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\uFF18\uFF19\uFF10"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u540D\u524D"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u540D\u524D"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u540D\u524D"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u540D\u524D"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u767B\u9332"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\uFF18\uFF19\uFF10"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u88C5\u7740"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u88C5\u7740"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u88C5\u7740"
+Assets/Resources/Prefabs/EquipPresetDialog.prefab:  m_Text: "\u88C5\u7740"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u30AA\u30EA\u30CF\u30EB\u30B3\u30F3"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u9589\u3058\u308B"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u9BAE\u8840\u306E\u7C12\u596A\u8005"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u88C5\u5099\u4E00\u89A7"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: +1000
+Assets/Resources/Prefabs/EquipPresetListDialog.prefab:  m_Text: "\u56FA\u5B9AOP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: +1
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: 999999999
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: Slot
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: +1
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: Status
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: +1
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: 999999999
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: 999999999
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: All Sell
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: Talent
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: Item
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: +1
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: +1
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: Stage
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: 999999999
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: +1
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: 999999999
+Assets/Resources/Prefabs/FooterPanel.prefab:  m_Text: 999999999
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u3000\u3000\u3000\u3000\u3000\u3000\uFF08\u672A\u89E3\u653E\uFF09"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u30FB\u30B9\u30ED\u30C3\u30C8\uFF12"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u30AF\u30EA\u30A2\u6E08\u30B9\u30C6\u30FC\u30B8\u306E\u30DC\u30B9\u51FA\u73FE"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u30FB\u30B9\u30ED\u30C3\u30C8\uFF13"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u30E1\u30F3\u30D0\u30FC\u30B9\u30AD\u30EB\u81EA\u52D5\u5B9F\u884C"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u3000\u3000\u3000\u3000\u3000\u3000\uFF08\u672A\u89E3\u653E\uFF09"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u30FB\u753B\u9762\u30B7\u30A7\u30A4\u30AF"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u30FB\u653B\u6483\u30A2\u30CB\u30E1\u30FC\u30B7\u30E7\u30F3"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u30FB\u30C0\u30E1\u30FC\u30B8\u3001\u56DE\u5FA9\u5024\u3001\u72B6\u614B\u5909\u5316\u8868\u793A"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u30FB\u30C9\u30ED\u30C3\u30D7\u8868\u793A"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u6226\u95D8\u30A2\u30CB\u30E1\u30FC\u30B7\u30E7\u30F3"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u3000\u3000\u3000\u3000\u3000\u3000\uFF08\u672A\u89E3\u653E\uFF09"
+Assets/Resources/Prefabs/GameOptionDialog.prefab:  m_Text: "\u30FB\u30B9\u30ED\u30C3\u30C8\uFF11"
+Assets/Resources/Prefabs/GetTreasureDialog.prefab:  m_Text: "\u8E0A\u308B \xD710000"
+Assets/Resources/Prefabs/GetTreasureDialog.prefab:  m_Text: "\u7372\u5F97\u52B9\u679C\uFF1AMP+0"
+Assets/Resources/Prefabs/GetTreasureDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/GetTreasureDialog.prefab:  m_Text: "\u73FE\u5728\u306E\u6240\u6301\u6570"
+Assets/Resources/Prefabs/GetTreasureDialog.prefab:  m_Text: "\u6B69\u304F \xD710000"
+Assets/Resources/Prefabs/GetTreasureDialog.prefab:  m_Text: "\u6B69\u304F\u4EBA\u5F62"
+Assets/Resources/Prefabs/GetTreasureDialog.prefab:  m_Text: "\u7A7A\u98DB\u3076 \xD710000"
+Assets/Resources/Prefabs/GetTreasureDialog.prefab:  m_Text: "\u7B11\u3046 \xD710000"
+Assets/Resources/Prefabs/GetTreasureDialog.prefab:  m_Text: "\u5B9D\u7269\u3092\u624B\u306B\u5165\u308C\u305F\uFF01"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: 20%
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u88DC\u6B63\u78BA\u7387"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: +4
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u30B9\u30FC\u30D1\u30FC\u30B0\u30EC\u30FC\u30C9\u3092\u4F7F\u3046\uFF01"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u9078\u629E1 (\u5F37\u5316\u3059\u308B\u65B9)"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: 20%
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: +5
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u5909\u66F4"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: +2
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u81EA\u52D5"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: 20%
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u30B0\u30EC\u30FC\u30C8\u30B0\u30EC\u30FC\u30C9\u3092\u4F7F\u3046\uFF01"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u30EA\u30A2\u30EB\u30E9\u30C3\u30AF\u3067\u52DD\u8CA0\uFF01"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u9078\u629E2 (\u306A\u304F\u306A\u308B\u65B9)"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: +3
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: 20%
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u5909\u66F4"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: 20%
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: "\u81EA\u52D5"
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/GradeUpDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: Setting
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: Share
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: 99999
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: Level Up
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: 99999
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: Pause
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: 0%
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: 99999
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: Exit
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: /
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: 999,999
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: /
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: 99999
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: 100%
+Assets/Resources/Prefabs/HeaderPanel.prefab:  m_Text: Lv.1
+Assets/Resources/Prefabs/ImageDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/ImageDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/ImageDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/InputCharaNameDialog.prefab:  m_Text: "\u3053\u3053\u306B\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044"
+Assets/Resources/Prefabs/InputCharaNameDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/InputCharaNameDialog.prefab:  m_Text: "\u540D\u524D\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044"
+Assets/Resources/Prefabs/InputCharaNameDialog.prefab:  m_Text: "\u3053\u306E\u5973\u306E\u5B50\u306E\u540D\u524D\u3092\u6C7A\u3081\u3066\u304F\u3060\u3055\u3044\u3002"
+Assets/Resources/Prefabs/InputCharaNameDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/InputCharaNameDialog.prefab:  m_TextComponent: {fileID: 114664570703752514}
+Assets/Resources/Prefabs/InputCharaNameDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/InputCharaNameDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/InputTextDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/InputTextDialog.prefab:  m_TextComponent: {fileID: 114743038780238652}
+Assets/Resources/Prefabs/InputTextDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/InputTextDialog.prefab:  m_Text: "\u3053\u3053\u306B\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044"
+Assets/Resources/Prefabs/InputTextDialog.prefab:  m_Text: "\u30CD\u30C3\u30C8\u30EF\u30FC\u30AF\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002"
+Assets/Resources/Prefabs/InputTextDialog.prefab:  m_Text: "\u78BA\u8A8D\u3057\u3066\u304F\u3060\u3055\u3044"
+Assets/Resources/Prefabs/InputTextDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/InputTextDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "SS\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u666E\u901A\u3088\u308A\u9577\u3044\u5263\u3002\u632F\u308A\u306B\u304F\u3044\u3002"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u88DC\u6B63\u5024"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u88C5\u5099"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u88C5\u5099"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u305D\u306E\u4ED6"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u4F7F\u7528\u53EF\u80FD"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u30E1\u30F3\u30D0\u30FC"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 10
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "B\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u901A\u5E38"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "A\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 50
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\uFF0F"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u58F2\u5374\u3059\u308B"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 50
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u58F2\u5374\u6642"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u4E00\u62EC"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u6240\u6301\u6570 99999999"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u666E\u901A\u3088\u308A\u9577\u3044\u5263\u3002\u632F\u308A\u306B\u304F\u3044\u3002"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "S\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: "\u6C38\u7D9A"
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/InventoryDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\xD7100"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "S\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\xD710"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u5F37\u5316\u5F8C\u306E\u6027\u80FD"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "A\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: 999999
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u6210\u529F\u738750%"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "SS\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "B\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u653B\u6483\u529B +120"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u5FC5\u8981\u306A\u7D20\u6750"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: "\u88DC\u6B63\u5024"
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/LevelUpDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: "\u653B\u6483\u529B \uFF0B0%"
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: "\u653B\u6483\u529B +120"
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: "\u5F37\u5316\u5F8C\u306E\u6027\u80FD"
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: "\u305F\u3060\u306E\u85AC\u8349"
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: "\u6E67\u304D\u4E0A\u304C\u308B\u529B"
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: 999999
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: "\xD7100"
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: "\xD710"
+Assets/Resources/Prefabs/LevelUpTalentDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "4\u670830\u65E5 23\u664259\u5206\u307E\u3067"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\uFF08B\uFF5ESS\u30AF\u30E9\u30B9\uFF09"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\u5E83\u544A\u96C7\u7528\u306B\u3064\u3044\u3066"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\u5E83\u544A\u96C7\u7528"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\uFF08\u30BF\u30C3\u30D7\u3067\u8AAC\u660E\u3092\u958B\u304D\u307E\u3059\uFF09"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\uFF08SS\u30AF\u30E9\u30B9\uFF09"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\u5F37\u5316\u30E1\u30F3\u30D0\u30FC"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\u983C\u3082\u3057\u3044\u4EF2\u9593\u305F\u3061\u3068\u4E00\u7DD2\u306B\u5192\u967A\u3057\u3088\u3046\uFF01"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\u305D\u308C\u305E\u308C500\u305A\u3064\u6D88\u8CBB"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\u30E9\u30F3\u30C0\u30E0\u96C7\u7528"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\u8AB2\u91D1\u753B\u9762\u3078\u79FB\u52D5\u3057\u307E\u3059"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\u30E1\u30F3\u30D0\u30FC\u96C7\u7528"
+Assets/Resources/Prefabs/MemberEmploymentCampaignDialog.prefab:  m_Text: "\uFF08B\uFF5ES\u30AF\u30E9\u30B9\uFF09"
+Assets/Resources/Prefabs/MemberEmploymentDialog.prefab:  m_Text: "\u30E1\u30F3\u30D0\u30FC\u96C7\u7528"
+Assets/Resources/Prefabs/MemberEmploymentDialog.prefab:  m_Text: "\u8AB2\u91D1\u753B\u9762\u3078\u79FB\u52D5\u3057\u307E\u3059"
+Assets/Resources/Prefabs/MemberEmploymentDialog.prefab:  m_Text: "\u30E9\u30F3\u30C0\u30E0\u96C7\u7528"
+Assets/Resources/Prefabs/MemberEmploymentDialog.prefab:  m_Text: "\u983C\u3082\u3057\u3044\u4EF2\u9593\u305F\u3061\u3068\u4E00\u7DD2\u306B\u5192\u967A\u3057\u3088\u3046\uFF01"
+Assets/Resources/Prefabs/MemberEmploymentDialog.prefab:  m_Text: "\u305D\u308C\u305E\u308C500\u305A\u3064\u6D88\u8CBB"
+Assets/Resources/Prefabs/MemberEmploymentDialog.prefab:  m_Text: "\u5F37\u5316\u30E1\u30F3\u30D0\u30FC"
+Assets/Resources/Prefabs/MemberEmploymentDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/MemberEmploymentDialog.prefab:  m_Text: "\uFF08SS\u30AF\u30E9\u30B9\uFF09"
+Assets/Resources/Prefabs/MemberEmploymentDialog.prefab:  m_Text: "\uFF08B\uFF5ES\u30AF\u30E9\u30B9\uFF09"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "A\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "S\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "B\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u7DE8\u6210"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "SS\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/MemberFormationDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u653E\u7F6E\u30B9\u30ED\u30C3\u30C8\u4E00\u89A7"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u65B0\u898F"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u30B9\u30ED\u30C3\u30C81"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u5909\u66F4"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u4E00\u62EC\u56DE\u53CE"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u30B9\u30ED\u30C3\u30C81"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: PW 1500/1500
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u5909\u66F4"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: PW 1500/1500
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u5909\u66F4"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: PW 1500/1500
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u53CE\u5BB9\u91CF 0/10"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u751F\u7523\u91CF 0.000001\uFF08\u6BCE\u5206\uFF09"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u751F\u7523\u91CF 0.000001\uFF08\u6BCE\u5206\uFF09"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: PW 1500/1500
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u751F\u7523\u91CF 0.000001\uFF08\u6BCE\u5206\uFF09"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u30B9\u30ED\u30C3\u30C81"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u5909\u66F4"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: PW 1500/1500
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u53CE\u5BB9\u91CF 0/10"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u751F\u7523\u91CF 0.000001\uFF08\u6BCE\u5206\uFF09"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u53CE\u5BB9\u91CF 0/10"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u53CE\u5BB9\u91CF 0/10"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u65B0\u898F"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u5909\u66F4"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u65B0\u898F"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u65B0\u898F"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u53CE\u5BB9\u91CF 0/10"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u751F\u7523\u91CF 0.000001\uFF08\u6BCE\u5206\uFF09"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u30B9\u30ED\u30C3\u30C81"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u30B9\u30ED\u30C3\u30C81"
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/MemberIdleDialog.prefab:  m_Text: "\u65B0\u898F"
+Assets/Resources/Prefabs/MemberIdleMenuSelectDialog.prefab:  m_Text: "\u30B9\u30C6\u30FC\u30B8\u300C\u7247\u7530\u820E\u306E\u30D3\u30CB\u30FC\u30EB\u30CF\u30A6\u30B9\u300D\u3092\u30AF\u30EA\u30A2"
+Assets/Resources/Prefabs/MemberIdleMenuSelectDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/MemberIdleMenuSelectDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/MemberIdleMenuSelectDialog.prefab:  m_Text: "\u5B9D\u7269\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3"
+Assets/Resources/Prefabs/MemberIdleMenuSelectDialog.prefab:  m_Text: "\u89E3\u653E\u6761\u4EF6"
+Assets/Resources/Prefabs/MemberIdleMenuSelectDialog.prefab:  m_Text: "\u53CE\u5BB9\u91CF\u6700\u5927 250000"
+Assets/Resources/Prefabs/MemberIdleMenuSelectDialog.prefab:  m_Text: "\u53CE\u96C6\u30EC\u30FC\u30C8 6"
+Assets/Resources/Prefabs/MemberIdleMenuSelectDialog.prefab:  m_Text: "\u706B\u306E\u30A8\u30EC\u30E1\u30F3\u30C8"
+Assets/Resources/Prefabs/MemberIdleMenuSelectDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/MemberIdleMenuSelectDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/MemberSkillDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB\u30C7\u30FC\u30BF"
+Assets/Resources/Prefabs/MemberSkillDialog.prefab:  m_Text: "\u30C0\u30E1\u30FC\u30B8 50\u30012\u56DE\u653B\u6483"
+Assets/Resources/Prefabs/MemberSkillDialog.prefab:  m_Text: "\u9244\u58C1"
+Assets/Resources/Prefabs/MemberSkillDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/MemberSkillDialog.prefab:  m_Text: "\u30AF\u30FC\u30EB\u30BF\u30A4\u30E0 10\u79D2"
+Assets/Resources/Prefabs/NewMemberDialog.prefab:  m_Text: "\u4EE5\u4E0B\u306E\u30E1\u30F3\u30D0\u30FC\u3092\u96C7\u3044\u307E\u3057\u305F"
+Assets/Resources/Prefabs/NewMemberDialog.prefab:  m_Text: "\u30D0\u30D51 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/NewMemberDialog.prefab:  m_Text: "\u5973\u6226\u58EB\u30E9\u30E9"
+Assets/Resources/Prefabs/NewMemberDialog.prefab:  m_Text: "\u30D0\u30D53 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/NewMemberDialog.prefab:  m_Text: "\u30D0\u30D52 \u56DE\u907F+10"
+Assets/Resources/Prefabs/NewMemberDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/NewMemberDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/NewMemberDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/NewMemberDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB \u9244\u58C1"
+Assets/Resources/Prefabs/NoButtonDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/NoButtonDialog.prefab:  m_Text: "\u30CD\u30C3\u30C8\u30EF\u30FC\u30AF\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002"
+Assets/Resources/Prefabs/NpcDetailDialog.prefab:  m_Text: "\u5831\u916C \u30CA\u30A4\u30D5"
+Assets/Resources/Prefabs/NpcDetailDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/NpcDetailDialog.prefab:  m_Text: "\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\uFF18\uFF19\uFF10\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\n\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\uFF18\uFF19\uFF10\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17"
+Assets/Resources/Prefabs/NpcDetailDialog.prefab:  m_Text: "No.1 \u85AC\u8349\u304A\u3070\u3055\u3093"
+Assets/Resources/Prefabs/NpcDetailDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/NpcDetailDialog.prefab:  m_Text: "\u7372\u5F97\u30B3\u30A4\u30F3 5\u679A"
+Assets/Resources/Prefabs/NpcDetailDialog.prefab:  m_Text: "\u6575\u30EC\u30D9\u30EB3000\uFF5E \u30DC\u30B9\u968E\u5C645000"
+Assets/Resources/Prefabs/NpcDetailDialog.prefab:  m_Text: "\u6311\u6226\u53EF\u80FD"
+Assets/Resources/Prefabs/NpcDetailDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/NpcListDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/NpcListDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/NpcListDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/NpcListDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/NpcListDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/NpcListDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/NpcListDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/NpcListDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/NpcListDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/NpcListDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/NpcListDialog.prefab:  m_Text: "\u85AC\u5E2B\u306E\u304A\u3070\u3042\u3055\u3093"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/OneKindItemSelectDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: 999999
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u30EA\u30ED\u30FC\u30EB"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u5024\u306E\u307F"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: "\u5FC5\u8981\u306A\u7D20\u6750"
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/OptionChangeDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: 9h
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: 12h
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: "\xD7"
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: 0h
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: Lv. 1
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: "\u2191\u304A\u624B\u5165\u308C\u76EE\u5B89\u6642\u9593"
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: 3h
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: 6h
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/PictureGirlDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/PreCheckDialog.prefab:  m_Text: "\u30B2\u30FC\u30E0\u3092\u59CB\u3081\u308B\u524D\u306B"
+Assets/Resources/Prefabs/PreCheckDialog.prefab:  m_Text: "\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u3002\u30B2\u30FC\u30E0\u3092\u59CB\u3081\u308B\u524D\u306B\u4EE5\u4E0B\u306E\u70B9\u3092\u3054\u78BA\u8A8D\u304F\u3060\u3055\u3044\u3002\r\n\r\n\u78BA\u8A8D\u2460\r\n\u672C\u30B2\u30FC\u30E0\u306F\u3044\u308F\u3086\u308B<color=#ffff00>\u300C\u30B9\u30BF\u30DF\u30CA\u5236\u300D</color>\u3092\u5C0E\u5165\u3057\u3066\u3044\u307E\u3059\u3002\r\n\r\n\u78BA\u8A8D\u2461\r\n\u3067\u3059\u304C\u3001\u5E83\u544A\u3092\u898B\u3066\u3044\u305F\u3060\u304F\u304B\u3001\u8AB2\u91D1\u30A2\u30A4\u30C6\u30E0\u306E\u300C\u7121\u9650\u30B9\u30BF\u30DF\u30CA\uFF06\u5E83\u544A\u524A\u9664\u300D\u3092\u3054\u8CFC\u5165\u3044\u305F\u3060\u3051\u308C\u3070\u3001<color=#ffff00>\u30B9\u30BF\u30DF\u30CA\u306E\u6B8B\u91CF\u3092\u6C17\u306B\u305B\u305A</color>\u904A\u3093\u3067\u3044\u305F\u3060\u3051\u307E\u3059\u3002\r\n\r\n\u203B\u5E83\u544A\uFF1A16\u6642\u9593\u6709\u52B9\uFF08\u4F55\u56DE\u3067\u3082\u53EF\u80FD\uFF09\r\n\u203B\u8AB2\u91D1\uFF1A\u6C38\u7D9A\uFF08\u30A2\u30D7\u30EA\u3092\u524A\u9664\u3059\u308B\u307E\u3067\u305A\u3063\u3068\uFF09\r\n\r\n\u78BA\u8A8D\u2462\r\n\u4E0A\u8A18\u3001\u3054\u7406\u89E3\u3054\u4E86\u627F\u3044\u305F\u3060\u3044\u305F\u4E0A\u3067\u30B2\u30FC\u30E0\u3092\u304A\u697D\u3057\u307F\u304F\u3060\u3055\u3044\u3002"
+Assets/Resources/Prefabs/PreCheckDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/PreCheckDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/PreCheckDialog.prefab:  m_Text: "\u4E0A\u8A18\u306E\u5185\u5BB9\u306B\u540C\u610F\u3057\u307E\u3057\u305F"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "NPC\u4E00\u89A7"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u7279\u6B8A\u30AF\u30A8\u30B9\u30C8"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u6709\u52B9\u671F\u9650 10\u670812\u65E5 13\u664232\u5206"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u958B\u59CB"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u540D\u58F0 +30"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u4F9D\u983C\u4EBA"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u6575\u30EC\u30D9\u30EB 1 \u968E\u5C6415"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u30AF\u30A8\u30B9\u30C8 \u85AC\u8349\u96C6\u3081"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "[Tips]\n\u30E1\u30CB\u30E5\u30FC\u753B\u9762\u5DE6\u4E0B\u306E\u300CStage\u300D\u30DC\u30BF\u30F3\u304B\u3089\n\u30D5\u30EA\u30FC\u30D0\u30C8\u30EB\u3092\u697D\u3057\u3081\u307E\u3059\u3002"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u5831\u916C C\u30E9\u30F3\u30AF\u6B66\u5668"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u5B9A\u756A\u4E2D\u306E\u5B9A\u756A\u30AF\u30A8\u30B9\u30C8\u3002\u3055\u3044\u3057\u3087\u306E\u304A\u3064\u304B\u3044\u3002"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u53D7\u9818\u53EF\u80FD\u30AF\u30A8\u30B9\u30C8"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/QuestSelectDialog.prefab:  m_Text: OK!
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "S\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u5FC5\u8981\u306A\u7D20\u6750"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u653B\u6483\u529B +120"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u6210\u529F\u738750%"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u5F37\u5316\u5F8C\u306E\u6027\u80FD"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: 999999
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: 99999999999
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "SS\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "A\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "B\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/RankUpDialog.prefab:  m_Text: "\u88DC\u6B63\u5024"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "SS\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u88DC\u6B63\u5024"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "S\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u58F2\u5374\u3059\u308B"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: 50
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "A\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: 50
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\uFF0F"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u30E1\u30F3\u30D0\u30FC"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "B\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u88C5\u5099"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/SelectItemAllCategoryDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "SS\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "B\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "A\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: "S\u30AF\u30E9\u30B9"
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/SelectItemDialog.prefab:  m_Text: R
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "\u653B\u6483\u529B 60\n\u653B\u6483\u901F\u5EA6 1.2\u79D2\n\u30B9\u30AD\u30EB\uFF1A\u30E1\u30C6\u30AA\u30B9\u30C8\u30E9\u30A4\u30AF\nOP1
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "\u30B7\u30E7\u30C3\u30D7 - \u901A\u5E38"
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "\u4FA1\u683C"
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "\u30A4\u30E9\u30A4\u30B6\u3061\u3083\u3093"
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB"
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB\u5A01\u529B\u91CD\u8996\u306E\u983C\u308C\u308B\u4EF2\u9593\u3002"
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: 999999
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "\xD7100"
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/ShopCoinDialog.prefab:  m_Text: "\xD710"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\u4FA1\u683C"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\xD7100"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\xD710"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\u30A4\u30E9\u30A4\u30B6\u3061\u3083\u3093"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\u653B\u6483\u529B 60\n\u653B\u6483\u901F\u5EA6 1.2\u79D2\n\u30B9\u30AD\u30EB\uFF1A\u30E1\u30C6\u30AA\u30B9\u30C8\u30E9\u30A4\u30AF\nOP1
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\u30B7\u30E7\u30C3\u30D7 - \u901A\u5E38"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB\u5A01\u529B\u91CD\u8996\u306E\u983C\u308C\u308B\u4EF2\u9593\u3002"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: 999999
+Assets/Resources/Prefabs/ShopCommercialDialog.prefab:  m_Text: "\u30A2\u30A4\u30C6\u30E0\u306F\n\u968F\u6642\u8FFD\u52A0\u3057\u3066\u304F\u3088\uFF01"
+Assets/Resources/Prefabs/ShopPurchaseDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/ShopPurchaseDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB\u5A01\u529B\u91CD\u8996\u306E\u983C\u308C\u308B\u4EF2\u9593\u3002"
+Assets/Resources/Prefabs/ShopPurchaseDialog.prefab:  m_Text: "\u30A4\u30E9\u30A4\u30B6\u3061\u3083\u3093"
+Assets/Resources/Prefabs/ShopPurchaseDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/ShopPurchaseDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/ShopPurchaseDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/ShopPurchaseDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/ShopPurchaseDialog.prefab:  m_Text: "\u30B7\u30E7\u30C3\u30D7 - \u901A\u5E38"
+Assets/Resources/Prefabs/ShopPurchaseDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB"
+Assets/Resources/Prefabs/ShopPurchaseDialog.prefab:  m_Text: "\u653B\u6483\u529B 60\n\u653B\u6483\u901F\u5EA6 1.2\u79D2\n\u30B9\u30AD\u30EB\uFF1A\u30E1\u30C6\u30AA\u30B9\u30C8\u30E9\u30A4\u30AF\nOP1
+Assets/Resources/Prefabs/ShopPurchaseDialog.prefab:  m_Text: "\u4FA1\u683C"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "\u3053\u3053\u3067\u3057\u304B\u8CB7\u3048\u306A\u3044\u4FA1\u5024\u304C\u3042\u308B\u304B\u3082\uFF01\uFF1F"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "\u8AB2\u91D1\u753B\u9762\u3078\u79FB\u52D5\u3057\u307E\u3059"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "\u901A\u5E38\u30A2\u30A4\u30C6\u30E0"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "\u7279\u6B8A\u30A2\u30A4\u30C6\u30E0"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "\u30B3\u30A4\u30F3\u3067\u8CB7\u3044\u7269\u3067\u304D\u307E\u3059"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "\u30B7\u30E7\u30C3\u30D7\u30E1\u30CB\u30E5\u30FC"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "CP\u3067\u8CB7\u3044\u7269\u3067\u304D\u307E\u3059"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "CP\u3092\u8CAF\u3081\u308B"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "\u8EE2\u751F\u77F3\u3067\u8CB7\u3044\u7269\u3067\u304D\u307E\u3059"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "\u5E83\u544A\u30A2\u30A4\u30C6\u30E0"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "\u671F\u9593\u9650\u5B9A \u7279\u5178\u3042\u308A!!"
+Assets/Resources/Prefabs/ShopSelectDialog.prefab:  m_Text: "\u8EE2\u751F\u30A2\u30A4\u30C6\u30E0"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\u30A2\u30A4\u30C6\u30E0\u306F\n\u968F\u6642\u8FFD\u52A0\u3057\u3066\u304F\u3088\uFF01"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\xD710"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\xD7100"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\u30B7\u30E7\u30C3\u30D7 - \u901A\u5E38"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\u653B\u6483\u529B 60\n\u653B\u6483\u901F\u5EA6 1.2\u79D2\n\u30B9\u30AD\u30EB\uFF1A\u30E1\u30C6\u30AA\u30B9\u30C8\u30E9\u30A4\u30AF\nOP1
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\u30A4\u30E9\u30A4\u30B6\u3061\u3083\u3093"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\u4FA1\u683C"
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: 999999
+Assets/Resources/Prefabs/ShopSoulStoneDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB\u5A01\u529B\u91CD\u8996\u306E\u983C\u308C\u308B\u4EF2\u9593\u3002"
+Assets/Resources/Prefabs/SimpleDialog.prefab:  m_Text: "\u30CD\u30C3\u30C8\u30EF\u30FC\u30AF\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002"
+Assets/Resources/Prefabs/SimpleDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/SimpleDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/SimpleDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u6D88\u8CBB\u7D20\u6750"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "HP\u56DE\u5FA9 5000"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB\u30C1\u30C3\u30D7"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u7DE8\u6210"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u305F\u3060\u306E\u85AC\u8349"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u30DF\u30CB\u30DD\u30FC\u30B7\u30E7\u30F3+100"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u30A2\u30A4\u30C6\u30E0"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u672A\u9078\u629E"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: "\u30AF\u30FC\u30EB\u30BF\u30A4\u30E0 1.0\u79D2"
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/SlotSetDialog.prefab:  m_Text: 
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u7D44\u307F\u5408\u308F\u305B"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u9078\u629E"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: OK!
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: 999999
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: OK!
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u9078\u629E"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: OK!
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u7D20\u6750 \u8056\u9280"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "\u9078\u629E"
+Assets/Resources/Prefabs/SpecialCreateDialog.prefab:  m_Text: "EX\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "\u7372\u5F97\u30B3\u30A4\u30F3 5\u679A"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "\u3053\u3046\u3044\u3046\u3060\u3060\u3063\u5E83\u3044\u5E73\u539F\u3063\u3066\u3042\u307E\u308A\u306A\u3044\u3088\u306D\u3002"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "\u7372\u5F97\u30B3\u30A4\u30F3 5\u679A"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "\u5831\u916C C\u30E9\u30F3\u30AF\u6B66\u5668"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "\u958B\u59CB"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "\u30B9\u30C6\u30FC\u30B81-1 \u3055\u3044\u3057\u3087\u306E\u305D\u3046\u3052\u3093"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "\u6575\u30EC\u30D9\u30EB 1\uFF5E"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "[Tips]\n\u7279\u6B8A\u30AF\u30A8\u30B9\u30C8\u300C\u4E59\u5973\u306E\u30AF\u30ED\u30FC\u30BC\u30C3\u30C8\u300D\u3092\n\u30AF\u30EA\u30A2\u3059\u308B\u3068\u89E3\u653E\u3055\u308C\u307E\u3059"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "\u901A\u5E38\u30B9\u30C6\u30FC\u30B8"
+Assets/Resources/Prefabs/StageSelectDialog.prefab:  m_Text: "\u88CF\u306E\u4E16\u754C"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u547D\u4E2D"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u653B\u6483\u529B"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "HP\u81EA\u52D5\u56DE\u5FA9\u9593\u9694"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "HP\u81EA\u52D5\u56DE\u5FA9\u5024"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30B9\u30C6\u30FC\u30BF\u30B9"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30B9\u30ED\u30A6\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "MP\u81EA\u52D5\u56DE\u5FA9\u9593\u9694"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30AF\u30EC\u30A2"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: HP
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u653B\u6483\u56DE\u6570"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u56DE\u907F"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u9632\u5FA1\u529B"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u304B\u3051\u3060\u3057\u30CF\u30F3\u30BF\u30FC"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u9EBB\u75FA\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30A2\u30F3\u30C7\u30C3\u30C9\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6697\u95C7\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6BD2\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: MP
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6C88\u9ED9\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u88C5\u5099\u4E00\u89A7"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "MP\u81EA\u52D5\u56DE\u5FA9\u5024"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6DF7\u4E71\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u8FFD\u52A0\u56FA\u5B9A\u30C0\u30E1\u30FC\u30B8"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u7387"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6BD2\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u56DE\u5FA9\u52B9\u7387"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30A2\u30F3\u30C7\u30C3\u30C9\u653B\u6483"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6DF7\u4E71\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6575\u6483\u7834\u6642MP\u56DE\u5FA9"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u88C5\u5099OP\u4ED8\u4E0E\u7387"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u9EBB\u75FA\u653B\u6483"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u3069\u3068\u3046\u306E\u7A7A\u304D\u30B9\u30DA\u30FC\u30B9\uFF01"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u5B9D\u7269"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30AF\u30FC\u30EB\u30BF\u30A4\u30E0"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 2
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30A2\u30F3\u30C7\u30C3\u30C9\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30B9\u30AD\u30EB\u52B9\u679C"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6C88\u9ED9\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30B9\u30ED\u30A6\u653B\u6483"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u9EBB\u75FA\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "HP\u81EA\u52D5\u56DE\u5FA9\u9593\u9694"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u88C5\u5099\u30C9\u30ED\u30C3\u30D7\u7387"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6BD2\u653B\u6483"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30A2\u30A4\u30C6\u30E0\u52B9\u679C"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u7D20\u6750\u30C9\u30ED\u30C3\u30D7\u6570"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 3
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u56DE\u907F"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u9023\u7D9A\u884C\u52D5\u78BA\u7387"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u88AB\u30C0\u30E1MP\u5909\u63DB"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30AF\u30FC\u30EB\u30BF\u30A4\u30E0\uFF08%\uFF09"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u7372\u5F97\u7D4C\u9A13\u5024"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u547D\u4E2D"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u7387"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6697\u95C7\u653B\u6483"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30B9\u30ED\u30A6\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "MP\u81EA\u52D5\u56DE\u5FA9\u9593\u9694"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u8FFD\u52A0\u56FA\u5B9A\u30C0\u30E1\u30FC\u30B8"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u653B\u6483\u56DE\u6570"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u30C0\u30E1\u30FC\u30B8\u53CD\u5C04"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u53CD\u6483\u7387"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "MP\u81EA\u52D5\u56DE\u5FA9\u5024"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6295\u7A3F"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "HP\u81EA\u52D5\u56DE\u5FA9\u5024"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6D88\u8CBBMP"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6D88\u8CBBMP\uFF08%\uFF09"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "HP\u5438\u53CE"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6575\u6483\u7834\u6642HP\u56DE\u5FA9"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: 99999999
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u6697\u95C7\u8010\u6027"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u88AB\u30C0\u30E1\u30FC\u30B8\u500D\u7387"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u5B9F\u7E3E"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "MP\u5438\u53CE"
+Assets/Resources/Prefabs/StatusDialog.prefab:  m_Text: "\u4E0E\u30C0\u30E1\u30FC\u30B8\u500D\u7387"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u9632\u5FA1\u529B"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: +3
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u77ED\u5263"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u5F97\u610F\u6B66\u5668"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u4E0E\u30C0\u30E1\u30FC\u30B8\u7387+10%"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u30D1\u30C3\u30B7\u30D6\u52B9\u679C"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u5F97\u610F\u6B66\u5668\u88C5\u5099\u6642"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u653B\u6483\u529B\u304C-20\uFF5E+80%\u306E\u9593\u3067\u5897\u6E1B\u3059\u308B\n\u307E\u308C\u306B+200%\u306E\u653B\u6483\u529B\u3067\u6575\u3092\u653B\u6483\u3059\u308B"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u3059\u3063\u3074\u3093"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "1\u30EC\u30D9\u30EB\u3054\u3068\u306E\u30B9\u30C6\u30FC\u30BF\u30B9\u4E0A\u6607\u5024"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: HP
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: +8
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: +12
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\xD7"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: +9
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u56DE\u907F"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: Prev
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u30B9\u30BF\u30A4\u30EB\u5909\u66F4"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u653B\u6483\u529B"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u547D\u4E2D"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: Next
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: "\u5F37\u5316\u3059\u308B"
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: +16
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: +3
+Assets/Resources/Prefabs/StyleChangeDialog.prefab:  m_Text: MP
+Assets/Resources/Prefabs/TBoxDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/TBoxDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/TBoxDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/TBoxDialog.prefab:  m_Text: "\u30CD\u30C3\u30C8\u30EF\u30FC\u30AF\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002"
+Assets/Resources/Prefabs/TableViewDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/TableViewDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/TableViewDialog.prefab:  m_Text: "hogehoge\u3067\u3059\u306D\n\u307B\u3052\u307B\u3052\u3060\u308F\u3055"
+Assets/Resources/Prefabs/TableViewDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/Toast.prefab:  m_Text: "\u3066\u304D\u3059\u3068"
+Assets/Resources/Prefabs/TreasureCollectionDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/TreasureCollectionDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/TreasureCollectionDialog.prefab:  m_Text: "\u307B\u3052\u307B\u3052 \xD710000"
+Assets/Resources/Prefabs/TreasureCollectionDialog.prefab:  m_Text: "\u307B\u3052\u307B\u3052 \xD710000"
+Assets/Resources/Prefabs/TreasureCollectionDialog.prefab:  m_Text: "\u8AAC\u660E"
+Assets/Resources/Prefabs/TreasureCollectionDialog.prefab:  m_Text: "\u307B\u3052\u307B\u3052 \xD710000"
+Assets/Resources/Prefabs/TreasureCollectionDialog.prefab:  m_Text: "\u5B9D\u7269\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3"
+Assets/Resources/Prefabs/TreasureCollectionDialog.prefab:  m_Text: "\u307B\u3052\u307B\u3052 \xD710000"
+Assets/Resources/Prefabs/TreasureCollectionDialog.prefab:  m_Text: "\u6240\u6301\u6570"
+Assets/Resources/Prefabs/TreasureCollectionDialog.prefab:  m_Text: "\u5B9D\u7269\u300C\u58FA\u300D"
+Assets/Resources/Prefabs/TreasureCollectionDialog.prefab:  m_Text: "\u7372\u5F97\u4E2D\u306E\u52B9\u679C HP+100000"
+Assets/Resources/Prefabs/TutorialPanel.prefab:  m_Text: "\u306F\u3058\u3081\u307E\u3057\u3066\uFF01\u3042\u3042\u3042\u3042\n\n\u3088\u3046\u3053\u305D\u300C\u30B9\u30AF\u30DF\u30BA\uFF01\u300D\u306E\u4E16\u754C\u3078\uFF01"
+Assets/Resources/Prefabs/TutorialPanel.prefab:  m_Text: "\u306F\u3058\u3081\u307E\u3057\u3066\uFF01\u3042\u3042\u3042\u3042\n\n\u3088\u3046\u3053\u305D\u300C\u30B9\u30AF\u30DF\u30BA\uFF01\u300D\u306E\u4E16\u754C\u3078\uFF01"
+Assets/Resources/Prefabs/TutorialQuestSelectDialog.prefab:  m_Text: "\u30AF\u30A8\u30B9\u30C8 \u85AC\u8349\u96C6\u3081"
+Assets/Resources/Prefabs/TutorialQuestSelectDialog.prefab:  m_Text: "\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB\u306F\n\u5168\u90E8\u30675\u3064\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/TutorialQuestSelectDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/TutorialQuestSelectDialog.prefab:  m_Text: "\u5B9A\u756A\u4E2D\u306E\u5B9A\u756A\u30AF\u30A8\u30B9\u30C8\u3002\u3055\u3044\u3057\u3087\u306E\u304A\u3064\u304B\u3044\u3002"
+Assets/Resources/Prefabs/TutorialQuestSelectDialog.prefab:  m_Text: "\u958B\u59CB"
+Assets/Resources/Prefabs/TutorialQuestSelectDialog.prefab:  m_Text: "\u540D\u58F0 +30"
+Assets/Resources/Prefabs/TutorialQuestSelectDialog.prefab:  m_Text: "\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB\u30AF\u30A8\u30B9\u30C8"
+Assets/Resources/Prefabs/TutorialQuestSelectDialog.prefab:  m_Text: "\u6709\u52B9\u671F\u9650 10\u670812\u65E5 13\u664232\u5206"
+Assets/Resources/Prefabs/TutorialQuestSelectDialog.prefab:  m_Text: "\u5831\u916C C\u30E9\u30F3\u30AF\u6B66\u5668"
+Assets/Resources/Prefabs/TutorialQuestSelectDialog.prefab:  m_Text: "\u6575\u30EC\u30D9\u30EB 1 \u968E\u5C6415"
+Assets/Resources/Prefabs/UserTermsDialog.prefab:  m_Text: "\u30E1\u30C3\u30BB\u30FC\u30B8"
+Assets/Resources/Prefabs/UserTermsDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/UserTermsDialog.prefab:  m_Text: "\u5229\u7528\u898F\u7D04\u3092\u958B\u304F"
+Assets/Resources/Prefabs/UserTermsDialog.prefab:  m_Text: "\u30BF\u30A4\u30C8\u30EB"
+Assets/Resources/Prefabs/UserTermsDialog.prefab:  m_Text: "\u30D7\u30E9\u30A4\u30D0\u30B7\u30FC\u30DD\u30EA\u30B7\u30FC\u3092\u958B\u304F"
+Assets/Resources/Prefabs/UserTermsDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: "P\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: Mute
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: Mute
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: "\u30C0\u30A4\u30A2\u30ED\u30B0\u30BF\u30A4\u30C8\u30EB\u3060\u3088\uFF01"
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: BGM
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: "\u52B9\u679C\u97F3"
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: "\u30FB\u30E1\u30F3\u30D0\u30FC\u653E\u7F6E\u751F\u7523"
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: "\u30FB\u5B9A\u6642\u30AF\u30A8\u30B9\u30C8"
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: "\u30A2\u30D7\u30EA\u901A\u77E5"
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: "\u30FB\u7A62\u308C\u3092\u6E05\u3081\u308B\u5C11\u5973\u306E\u8096\u50CF"
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: "\u30FB\u30ED\u30B0\u30A4\u30F3\u30DC\u30FC\u30CA\u30B9"
+Assets/Resources/Prefabs/VolumeChangeDialog.prefab:  m_Text: ON
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\uFF0F"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: 50
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u53E4\u4EE3"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "OP2 \u56DE\u907F+10"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u88C5\u5099"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: +1
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u56FA\u6709OP \u653B\u6483\u529B+5%"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u653B\u6483\u901F\u5EA6 1.2\u79D2"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: 9999
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "N\u30DC\u30BF\u30F3"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u666E\u901A\u3088\u308A\u9577\u3044\u5263\u3002\u632F\u308A\u306B\u304F\u3044\u3002"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "OP3 \u653B\u6483\u901F\u5EA6-0.1\u79D2"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u58F2\u5374\u6642"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u9244"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: 50
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u58F2\u5374\u3059\u308B"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u653B\u6483\u529B +100"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: No Item
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u88DC\u6B63\u5024"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u30EC\u30A2\u5EA6\u5F37\u5316 - \u88C5\u5099"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "OP1 \u547D\u4E2D+10"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: "\u30ED\u30F3\u30B0\u30BD\u30FC\u30C9+100"
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: 1
+Assets/Resources/Prefabs/WarehouseDialog.prefab:  m_Text: 
+Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacyButton.prefab:  m_Text: Open Data Privacy Page
